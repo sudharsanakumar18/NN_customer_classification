@@ -92,13 +92,10 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 
 
 ### Classification Report
-
-![Screenshot 2025-03-16 212405](https://github.com/user-attachments/assets/55aeb822-dbd9-4d88-9da8-7398ac4035bd)
+![Screenshot 2025-03-17 113928](https://github.com/user-attachments/assets/95a216e3-10ec-4c14-8f18-e90c282ec2c9)
 
 ### New Sample Data Prediction
-
-![Screenshot 2025-03-16 212456](https://github.com/user-attachments/assets/89ece0ef-eae7-4ea8-bbce-e7a0167f42fd)
-
+![image](https://github.com/user-attachments/assets/820cfd7f-4d3a-4154-8a62-562c5159e1bc)
 
 ## RESULT
 Thus a neural network classification model for the given dataset is executed successfully.
